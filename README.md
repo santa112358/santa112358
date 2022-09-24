@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Flutter developer based in Tokyo, and underdraduate in Waseda university.
+
+I manage several flutter packages and so happy that many developers are using them.
+
+If you have any requests or problems, please do not hesitate to create an issue or pull request.
+
+I do my best to update them, but sometimes my response and updates can be slow due to several projects I am involved in.
+
+Thank you.
+
 <!--
 **santa112358/santa112358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
