@@ -4,7 +4,7 @@ Flutter developer based in Tokyo, and underdraduate in Waseda university.
 
 I am managing several flutter packages and so happy that many developers are using them.
 
-If you have any requests or problems, please do not hesitate to create an issue or pull request.
+If you have any requests or problems, please do not hesitate to open an issue or pull request.
 
 I do my best to update them, but sometimes my response and updates can be slow due to several projects I am involved in.
 
