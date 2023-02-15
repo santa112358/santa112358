@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Flutter developer based in Tokyo, and underdraduate in Waseda university.
+Flutter developer based in Tokyo and currently an undergraduate at Waseda University. 
 
-I am managing several flutter packages and so happy that many developers are using them.
+I manage several Flutter packages and I'm so happy that they're used by many developers.
 
 If you have any requests or problems, please do not hesitate to open an issue or pull request.
 
-I do my best to update them, but sometimes my response and updates can be slow due to the projects I am involved in.
+I'll do my best to keep the packages updated, but please understand that my responses and updates may be delayed at times due to my other commitments.
 
 Thank you.
 
