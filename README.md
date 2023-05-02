@@ -2,7 +2,7 @@
 
 Flutter developer based in Tokyo and an undergraduate at Waseda University. 
 
-I manage several Flutter packages and I'm so happy that they're used by many developers.
+I'm so happy that many developers are using my packages.
 
 If you have any requests or problems, please do not hesitate to open an issue or pull request.
 
