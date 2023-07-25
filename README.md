@@ -6,7 +6,7 @@ I'm so happy that many developers are using my packages.
 
 If you have any requests or problems, please do not hesitate to open an issue or pull request.
 
-I'll do my best to keep the packages updated, but please understand that my responses and updates may be delayed at times due to my other commitments.
+I'll do my best to keep the packages updated, but please understand that my responses and updates may be delayed due to my other commitments.
 
 Thank you.
 
