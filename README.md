@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Flutter developer based in Tokyo and undergraduate at Waseda University. 
+Flutter developer based in Tokyo. 
 
 I'm so happy that many developers are using my packages.
 
